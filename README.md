@@ -1,4 +1,4 @@
-# congnghephanmem
+# giới thiệu về đề tài
 Công ty Good Market - nền tảng mua bán/rao vặt đáng tin cậy và tiện lợi! Chúng tôi tự hào giới thiệu hệ thống mua bán/rao vặt của chúng tôi, một nền tảng được thiết kế để kết nối người mua và người bán, mang lại trải nghiệm mua sắm và giao dịch tuyệt vời.
 
 Good Market mang đến cho bạn một môi trường trực tuyến an toàn và dễ sử dụng, nơi bạn có thể tìm thấy hàng nghìn sản phẩm và dịch vụ đa dạng từ các ngành công nghiệp khác nhau. Từ các sản phẩm điện tử, thời trang, đồ gia dụng đến các dịch vụ như du lịch, giáo dục và nhiều hơn nữa, chúng tôi đảm bảo rằng bạn sẽ tìm thấy những gì bạn cần trên nền tảng của chúng tôi.
