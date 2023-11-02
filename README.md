@@ -13,3 +13,15 @@ Với Good Market, bạn có thể yên tâm mua sắm và giao dịch trực tu
 
 Hãy tham gia cùng chúng tôi tại Good Market ngay hôm nay và trải nghiệm sự tiện lợi, đáng tin cậy và an toàn của hệ thống mua bán/rao vặt của chúng tôi.
 ![48362256](https://github.com/khanhduy1311/congnghephanmem/assets/131432096/53c44d32-9dd5-420c-874d-2f7915c2e6b8)
+
+Giới thiệu nhóm
+Ban đầu nhóm 4 có 4 thành viên. 
+Nguyễn Khánh Duy
+Lê Hoàng Phúc
+Lê Mai Đạt
+Cao Phạm Tuấn Anh
+Tuy nhiên, hiện tại bạn Tuấn Anh có lý do cá nhân nên đã không đồng hành cùng team trong suốt quá trình triển khai project.
+
+Công nghệ sử dụng trong project lần này của nhóm được viết bằng ngôn ngữ Type Script. Node js, Angular, dữ liệu sử dụng SqL Sever, Rest API
+
+Dự kiến sẽ phát triển project thêm sever bằng .Net Core web API. Những nội dung đã làm được trong project gồm có hiển thị trang chủ, cũng như hình ảnh, phát triển tốt về mặt UI/UX. Có thể xem được thông tin chi tiết của sản phẩm muốn mua, vào được trang đăng nhập. Tuy nhiên, vì thiếu nguồn nhân lực cũng như mọi người trong team kém phần code nên có những nội dung chưa làm được theo kế hoạch của dự án như: đăng ký tài khoản, đăng xuất, đăng nhập, tìm kiếm thông tin, và trang admin.
