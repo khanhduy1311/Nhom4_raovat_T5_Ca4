@@ -22,6 +22,12 @@ Lê Mai Đạt
 Cao Phạm Tuấn Anh
 Tuy nhiên, hiện tại bạn Tuấn Anh có lý do cá nhân nên đã không đồng hành cùng team trong suốt quá trình triển khai project.
 
-Công nghệ sử dụng trong project lần này của nhóm được viết bằng ngôn ngữ Type Script. Node js, Angular, dữ liệu sử dụng SqL Sever, Rest API
+Công nghệ sử dụng trong project lần này của nhóm được viết bằng ASP.NET, WEB MVC sử dụng SQL SERVER 
 
-Dự kiến sẽ phát triển project thêm sever bằng .Net Core web API. Những nội dung đã làm được trong project gồm có hiển thị trang chủ, cũng như hình ảnh, phát triển tốt về mặt UI/UX. Có thể xem được thông tin chi tiết của sản phẩm muốn mua, vào được trang đăng nhập. Tuy nhiên, vì thiếu nguồn nhân lực cũng như mọi người trong team kém phần code nên có những nội dung chưa làm được theo kế hoạch của dự án như: đăng ký tài khoản, đăng xuất, đăng nhập, tìm kiếm thông tin, và trang admin.
+Những nội dung đã làm được trong project gồm có hiển thị trang chủ, cũng như hình ảnh, phát triển tốt về mặt UI/UX. Có thể xem được thông tin chi tiết của sản phẩm muốn mua, đăng ký (người mua, người bán, admin), đăng nhập, tìm kiếm, giỏ hàng, thanh toán, đăng bán.
+Người mua:
+Người mua có thể tìm kiếm chọn sản phẩm theo danh mục, mua hàng, thanh toán.
+Người bán:
+Có thể tìm kiếm, xem, mua hàng, đăng bán
+Admin:
+Có thể kiểm duyệt bài đăng, quản lý người mua người bán, thêm nhân viên, quản lý nhân viên, tạo danh mục sản phẩm.
