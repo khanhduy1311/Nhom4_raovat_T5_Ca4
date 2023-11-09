@@ -12,7 +12,8 @@ Chúng tôi hiểu rằng an toàn và đáng tin cậy là yếu tố quan tr�
 Với Good Market, bạn có thể yên tâm mua sắm và giao dịch trực tuyến một cách dễ dàng và an toàn. Chúng tôi cam kết mang đến cho bạn trải nghiệm mua sắm tốt nhất và kết nối bạn với người bán đáng tin cậy trên toàn quốc.
 
 Hãy tham gia cùng chúng tôi tại Good Market ngay hôm nay và trải nghiệm sự tiện lợi, đáng tin cậy và an toàn của hệ thống mua bán/rao vặt của chúng tôi.
-![Screenshot 2023-11-02 170321](https://github.com/khanhduy1311/Nhom4_raovat_T5_Ca4/assets/131432096/b35186f2-a3ca-4cc0-87d5-a8e55c9c2985)
+![z4864231733391_332576457824769b88ed88eb2fb63c0d](https://github.com/khanhduy1311/Nhom4_raovat_T5_Ca4/assets/102505802/964a0b79-8153-4511-ae36-e2ca24a2dae3)
+
 
 Giới thiệu nhóm
 Ban đầu nhóm 4 có 4 thành viên. 
